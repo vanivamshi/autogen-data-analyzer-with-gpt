@@ -1,0 +1,509 @@
+customer_id,signup_date,gender,age,tenure_months,contract_type,payment_method,monthly_charges,total_charges,support_tickets,churned
+C1000,2025-03-26,Male,48.0,68,Month-to-month,Electronic check,32.24,2192.32,2,No
+C1001,2024-08-28,Male,71.0,45,Month-to-month,Bank transfer,77.43,3484.35,1,Yes
+C1002,2024-12-11,Female,45.0,49,Month-to-month,Mailed check,67.26,3295.74,2,No
+C1003,2024-05-16,Female,52.0,64,Month-to-month,Bank transfer,62.16,3978.24,3,No
+C1004,2024-02-26,Male,61.0,42,Month-to-month,Credit card,68.17,2863.14,1,No
+C1005,2024-11-27,Male,23.0,56,Month-to-month,Bank transfer,56.51,3164.56,1,No
+C1006,2024-07-02,Male,53.0,60,Month-to-month,Bank transfer,54.69,3281.4,1,No
+C1007,2024-07-25,Male,38.0,16,One year,Electronic check,27.93,446.88,0,No
+C1008,2025-05-21,Female,44.0,4,One year,Credit card,69.26,277.04,1,Yes
+C1009,2024-03-07,Female,33.0,22,Month-to-month,Bank transfer,116.14,2555.08,3,No
+C1010,2025-01-03,Male,25.0,21,Month-to-month,Mailed check,119.51,2509.71,2,No
+C1011,2025-03-03,Male,27.0,63,One year,Electronic check,103.05,6492.15,3,No
+C1012,2024-09-23,Male,56.0,65,Month-to-month,Credit card,87.65,5697.25,5,No
+C1013,2025-02-18,Male,47.0,1,Month-to-month,Credit card,53.09,53.09,1,No
+C1014,2024-02-28,Female,23.0,36,Month-to-month,Electronic check,106.07,3818.52,2,Yes
+C1015,2025-08-06,Male,29.0,59,Month-to-month,Electronic check,68.6,4047.4,0,No
+C1016,2025-07-04,Female,63.0,10,Two year,Credit card,68.28,682.8,3,Yes
+C1017,2024-03-23,Male,27.0,57,Month-to-month,Mailed check,62.72,3575.04,1,No
+C1018,2024-12-15,Female,70.0,9,Month-to-month,Credit card,72.3,650.7,3,Yes
+C1019,2025-06-30,Female,61.0,34,Two year,Mailed check,59.12,2010.08,1,No
+C1020,2024-03-11,Male,,58,One year,Credit card,67.91,3938.78,2,No
+C1021,2025-04-23,Female,44.0,22,Month-to-month,Electronic check,42.89,943.58,0,No
+C1022,2024-10-02, male,28.0,25,Month-to-month,Mailed check,60.66,1516.5,4,Yes
+C1023,2024-05-31,Female,59.0,20,Two year,Mailed check,127.01,2540.2,1,No
+C1024,2025-08-13,Female,46.0,52,Month-to-month,Mailed check,68.26,3549.52,2,No
+C1025,2024-10-14,Male,47.0,19,One year,Credit card,64.03,1216.57,2,No
+C1026,2024-05-07,Male,61.0,71,Month-to-month,Electronic check,83.31,5915.01,2,No
+C1027,2025-01-13,Female,49.0,32,One year,Bank transfer,87.7,2806.4,2,No
+C1028,2024-12-18,Female,21.0,34,One year,Bank transfer,42.16,1433.44,2,No
+C1029,2024-07-07,Male,37.0,36,Two year,Bank transfer,64.82,2333.52,1,No
+C1030,2025-03-13,Male,56.0,42,One year,Bank transfer,92.96,3904.32,1,No
+C1031,2024-03-05,Male,44.0,40,Month-to-month,Electronic check,76.75,3070.0,2,No
+C1032,2024-12-29,Female,29.0,37,Month-to-month,Credit card,73.05,2702.85,0,No
+C1033,2025-05-17,Male,47.0,71,Month-to-month,Mailed check,108.85,7728.35,1,No
+C1034,2025-03-31,FEMALE,39.0,58,One year,Bank transfer,53.06,3077.48,1,No
+C1035,2024-04-08,Female,39.0,57,Month-to-month,Bank transfer,72.07,4107.99,1,No
+C1036,2025-04-22, male,32.0,50,Month-to-month,Mailed check,57.0,2850.0,0,Yes
+C1037,2024-10-21,Female,69.0,45,Month-to-month,Credit card,107.26,4826.7,1,Yes
+C1038,2024-02-28,Female,53.0,25,One year,Electronic check,21.2,530.0,3,No
+C1039,2024-09-19,FEMALE,33.0,71,Two year,Electronic check,53.25, ,0,No
+C1040,2024-06-16,Male,64.0,34,Month-to-month,Mailed check,56.77,1930.18,2,No
+C1041,2025-06-25,Female,31.0,16,Month-to-month,Credit card,86.59,1385.44,2,No
+C1042,2024-08-07,Male,34.0,61,One year,Credit card,85.16,5194.76,3,No
+C1043,2024-12-01,Female,,12,One year,Mailed check,104.88,1258.56,4,No
+C1044,2025-01-17,Male,77.0,61,One year,Electronic check,30.65,1869.65,2,No
+C1045,2024-09-11,Female,66.0,44,Two year,Credit card,88.76,3905.44,1,No
+C1046,2024-03-17,Male,57.0,9,Two year,Mailed check,62.67,564.03,0,Yes
+C1047,2025-08-09,Female,70.0,4,Two year,Bank transfer,53.36,213.44,3,No
+C1048,2024-06-03,Female,71.0,32,One year,Bank transfer,83.49,2671.68,2,No
+C1049,2024-07-30, male,53.0,3,Month-to-month,Credit card,47.0,141.0,0,No
+C1050,2024-07-26,Female,72.0,11,One year,Electronic check,20.0,220.0,2,No
+C1051,2025-03-11,Male,40.0,37,Month-to-month,Bank transfer,60.74,2247.38,0,No
+C1052,2024-02-16,Female,41.0,69,One year,Electronic check,32.56,2246.64,1,No
+C1053,2024-05-20,Male,58.0,34,One year,Electronic check,53.78,1828.52,5,No
+C1054,2025-06-29,Male,78.0,58,One year,Electronic check,79.29,4598.82,5,No
+C1055,2025-03-30,Female,69.0,66,Month-to-month,Bank transfer,77.8,5134.8,2,No
+C1056,2024-12-09, male,77.0,59,Month-to-month,Bank transfer,999.0,6470.53,1,No
+C1057,2025-03-26,Female,33.0,45,Month-to-month,Credit card,65.01,2925.45,1,No
+C1058,2024-07-23,Female,45.0,32,Month-to-month,Bank transfer,31.67,1013.44,3,No
+C1059,2025-05-11,Female,59.0,37,Two year,Electronic check,51.1,1890.7,1,No
+C1060,2025-04-27,Female,75.0,19,Month-to-month,Mailed check,47.02,893.38,1,Yes
+C1061,2024-10-17,Female,62.0,36,Month-to-month,Electronic check,39.55,1423.8,2,Yes
+C1062,2025-03-03,Male,74.0,27,Month-to-month,Credit card,80.88,2183.76,4,Yes
+C1063,2024-05-13,Female,42.0,18,One year,Credit card,53.87,969.66,1,No
+C1064,2024-06-12,Male,,71,Month-to-month,Mailed check,20.57,1460.47,0,No
+C1065,2025-01-14, male,26.0,1,Two year,Bank transfer,87.42,87.42,1,Yes
+C1066,2024-01-25,Female,33.0,7,Two year,Bank transfer,67.21,470.47,2,Yes
+C1067,2025-06-30,Female,55.0,14,Month-to-month,Credit card,78.92,1104.88,1,Yes
+C1068,2025-04-02,Female,32.0,69,Month-to-month,Credit card,72.64,5012.16,4,No
+C1069,2024-07-04,FEMALE,31.0,50,One year,Credit card,85.79,4289.5,0,No
+C1070,2024-06-08,FEMALE,24.0,63,Two year,Bank transfer,70.95,4469.85,0,No
+C1071,2024-01-13,Female,40.0,15,Month-to-month,Bank transfer,100.91,1513.65,1,No
+C1072,2024-07-30,Male,35.0,52,One year,Bank transfer,80.62,4192.24,4,No
+C1073,2024-04-20,Female,51.0,27,Two year,Bank transfer,79.8,2154.6,1,Yes
+C1074,2025-06-16,FEMALE,53.0,35,Two year,Bank transfer,80.25,2808.75,0,No
+C1075,2025-07-13,Female,77.0,1,Month-to-month,Mailed check,33.58,33.58,2,No
+C1076,2024-05-05,Male,55.0,44,Month-to-month,Mailed check,65.88,2898.72,0,No
+C1077,2024-01-04,Male,27.0,59,Two year,Credit card,63.52,3747.68,2,No
+C1078,2024-05-15,Female,43.0,48,Month-to-month,Credit card,75.19,3609.12,1,No
+C1079,2024-02-02,Female,22.0,11,Month-to-month,Electronic check,36.03,396.33,2,Yes
+C1080,2025-03-01,Female,51.0,38,One year,Bank transfer,110.85,4212.3,4,Yes
+C1081,2024-02-28,Male,51.0,19,Month-to-month,Electronic check,72.61,1379.59,1,Yes
+C1082,2024-05-06,Female,70.0,69,One year,Credit card,39.72,2740.68,0,No
+C1083,2025-06-19,Female,76.0,63,Month-to-month,Bank transfer,27.28,1718.64,0,No
+C1084,2025-03-20,Male,75.0,14,Two year,Mailed check,62.97,881.58,2,No
+C1085,2024-08-17,Male,20.0,37,Month-to-month,Electronic check,67.76,2507.12,2,No
+C1086,2024-03-23,Female,20.0,67,One year,Mailed check,52.04,3486.68,1,No
+C1087,2025-02-18,Female,57.0,61,Month-to-month,Credit card,72.3,4410.3,1,Yes
+C1088,2024-06-30,Female,77.0,51,Month-to-month,Credit card,53.97,2752.47,1,No
+C1089,2025-02-27,Male,19.0,46,Month-to-month,Bank transfer,83.79,3854.34,1,No
+C1090,2025-05-08,Female,67.0,3,Month-to-month,Electronic check,51.89,155.67,3,Yes
+C1091,2024-09-17,Male,52.0,53,Month-to-month,Credit card,69.04,3659.12,0,No
+C1092,2024-03-23,Female,52.0,34,One year,Credit card,94.47,3211.98,1,No
+C1093,2025-03-15,Female,25.0,7,Month-to-month,Mailed check,134.29,940.03,3,Yes
+C1094,2025-05-31,Male,48.0,18,Month-to-month,Electronic check,44.81,806.58,2,Yes
+C1095,2024-10-03, male,58.0,39,Two year,Credit card,58.39,2277.21,1,No
+C1096,2024-09-03,FEMALE,61.0,52,Two year,Electronic check,49.0,2548.0,2,No
+C1097,2024-11-21,FEMALE,40.0,37,Two year,Credit card,89.61,3315.57,1,No
+C1098,2025-06-12,Male,60.0,44,Month-to-month,Mailed check,41.3,1817.2,0,No
+C1099,2024-07-03,Female,58.0,62,Month-to-month,Electronic check,57.89,3589.18,0,No
+C1100,2024-07-10,Female,62.0,49,Month-to-month,Mailed check,69.26,3393.74,3,Yes
+C1101,2024-01-02,Female,,26,Month-to-month,Bank transfer,45.53, ,2,No
+C1102,2024-01-18,Male,75.0,46,Month-to-month,Credit card,46.07,2119.22,0,No
+C1103,2024-12-21,Male,22.0,43,Month-to-month,Electronic check,58.11,2498.73,2,Yes
+C1104,2025-08-02,Female,19.0,8,Month-to-month,Electronic check,20.0,160.0,1,No
+C1105,2024-06-08,Male,29.0,5,Month-to-month,Bank transfer,33.86,169.3,3,No
+C1106,2024-06-10,Male,22.0,47,Two year,Credit card,59.67,2804.49,0,No
+C1107,2024-06-14,Male,34.0,28,Month-to-month,Credit card,73.71,2063.88,1,Yes
+C1108,2024-07-04,Female,50.0,43,Month-to-month,Mailed check,65.36,2810.48,0,No
+C1109,2025-06-11,Female,28.0,23,One year,Mailed check,25.65,589.95,0,No
+C1110,2025-07-12,Female,36.0,17,Month-to-month,Credit card,58.41,992.97,1,Yes
+C1111,2024-08-05,Female,30.0,11,Month-to-month,Credit card,89.96,989.56,2,No
+C1112,2024-10-07,Male,71.0,28,Month-to-month,Mailed check,83.9,2349.2,0,No
+C1113,2024-03-02, male,,58,Month-to-month,Bank transfer,68.03,3945.74,2,Yes
+C1114,2024-05-04,Female,55.0,29,One year,Bank transfer,47.82,1386.78,1,No
+C1115,2025-01-13, male,45.0,27,Month-to-month,Mailed check,85.78,2316.06,0,No
+C1116,2024-01-23,Female,52.0,41,Month-to-month,Credit card,55.53,2276.73,3,No
+C1117,2024-11-19,Male,69.0,70,One year,Bank transfer,40.77,2853.9,2,No
+C1118,2024-11-13,Male,79.0,28,Two year,Credit card,49.95,1398.6,5,Yes
+C1119,2024-02-04, male,48.0,42,Month-to-month,Mailed check,106.21,4460.82,1,No
+C1120,2024-10-15,Male,47.0,32,Month-to-month,Mailed check,75.5,2416.0,2,No
+C1121,2024-07-28,Female,51.0,43,Month-to-month,Credit card,98.98,4256.14,0,No
+C1122,2024-03-19,Female,50.0,32,Two year,Bank transfer,58.02,1856.64,0,No
+C1123,2025-01-01,Female,62.0,46,Two year,Electronic check,93.45,4298.7,1,No
+C1124,2025-06-01,Female,31.0,39,Month-to-month,Credit card,54.96,2143.44,5,Yes
+C1125,2024-06-16,Female,70.0,49,Two year,Electronic check,66.06,3236.94,1,No
+C1126,2024-12-02,Female,21.0,68,Month-to-month,Mailed check,132.16,8986.88,2,Yes
+C1127,2025-08-14,Female,54.0,11,Month-to-month,Electronic check,89.18,980.98,1,Yes
+C1128,2025-05-29,Male,78.0,40,Month-to-month,Credit card,57.47,2298.8,1,Yes
+C1129,2025-04-24,Male,20.0,32,Two year,Mailed check,67.88,2172.16,1,No
+C1130,2024-08-10, male,73.0,26,Month-to-month,Bank transfer,78.16,2032.16,3,Yes
+C1131,2024-10-29,Female,46.0,18,Month-to-month,Credit card,100.26,1804.68,3,Yes
+C1132,2024-02-02,Female,70.0,4,One year,Bank transfer,57.77,231.08,0,No
+C1133,2025-07-03,Male,20.0,29,Month-to-month,Electronic check,26.47,767.63,1,No
+C1134,2024-01-11,Male,72.0,59,Month-to-month,Bank transfer,999.0,3717.59,0,Yes
+C1135,2024-01-21, male,55.0,7,Month-to-month,Mailed check,70.38,492.66,1,Yes
+C1136,2024-01-27, male,,29,Two year,Electronic check,72.74,2109.46,1,No
+C1137,2024-05-14,Male,22.0,69,One year,Credit card,102.92,7101.48,1,No
+C1138,2025-06-21,Female,42.0,68,Two year,Mailed check,77.92,5298.56,2,No
+C1139,2025-07-02,Male,51.0,16,One year,Electronic check,90.32,1445.12,2,No
+C1140,2024-11-21,Male,,1,One year,Electronic check,42.47,42.47,5,No
+C1141,2024-11-01,Female,27.0,48,Two year,Bank transfer,91.7,4401.6,0,No
+C1142,2024-07-18,Male,59.0,2,One year,Bank transfer,122.41,244.82,1,No
+C1143,2024-04-12,Female,71.0,22,One year,Bank transfer,89.32,1965.04,1,Yes
+C1144,2025-01-23, male,29.0,36,Month-to-month,Bank transfer,76.34,2748.24,1,Yes
+C1145,2024-12-08,Male,23.0,63,Month-to-month,Electronic check,73.85,4652.55,3,No
+C1146,2024-10-25,Female,34.0,7,One year,Credit card,114.68,802.76,2,Yes
+C1147,2025-03-14,Male,58.0,48,Month-to-month,Electronic check,46.82,2247.36,0,No
+C1148,2024-06-09,Male,48.0,38,Two year,Electronic check,67.22,2554.36,1,No
+C1149,2024-12-28,Male,61.0,10,One year,Electronic check,81.51,815.1,0,No
+C1150,2025-05-09,Female,76.0,61,Month-to-month,Electronic check,88.6,5404.6,1,No
+C1151,2024-01-28,Female,35.0,61,Two year,Mailed check,59.07,3603.27,3,No
+C1152,2024-09-06,Female,59.0,35,Month-to-month,Bank transfer,77.68,2718.8,3,Yes
+C1153,2024-01-23,Male,54.0,68,Month-to-month,Electronic check,63.05,4287.4,2,No
+C1154,2024-03-25,Male,71.0,44,Month-to-month,Mailed check,73.01,3212.44,2,No
+C1155,2024-09-01,FEMALE,38.0,65,Two year,Mailed check,66.7,4335.5,1,No
+C1156,2024-09-24,Female,24.0,69,One year,Bank transfer,41.46,2860.74,2,No
+C1157,2024-01-10,Female,34.0,41,Two year,Electronic check,69.47,2848.27,0,No
+C1158,2024-02-18,Male,18.0,20,Month-to-month,Electronic check,91.93, ,1,No
+C1159,2024-02-20,Female,34.0,11,Two year,Bank transfer,45.82,504.02,0,No
+C1160,2025-07-04,Female,70.0,40,One year,Electronic check,63.97,2558.8,2,No
+C1161,2025-01-20,Female,18.0,14,One year,Credit card,86.62,1212.68,1,No
+C1162,2024-07-12,Male,29.0,54,Two year,Electronic check,43.25,2335.5,2,No
+C1163,2024-09-20,Female,59.0,66,Month-to-month,Credit card,74.57,4921.62,1,No
+C1164,2024-10-05,Male,32.0,18,Month-to-month,Bank transfer,43.5,783.0,0,No
+C1165,2024-02-21,Male,22.0,40,One year,Bank transfer,98.37,3934.8,4,Yes
+C1166,2024-05-31,Female,50.0,4,Two year,Electronic check,127.82,511.28,1,No
+C1167,2025-06-09,Female,30.0,13,Month-to-month,Credit card,120.56,1567.28,2,Yes
+C1168,2024-04-18,Male,59.0,27,One year,Electronic check,64.52,1742.04,1,Yes
+C1169,2024-08-09,Male,23.0,63,Month-to-month,Electronic check,88.5,5575.5,1,No
+C1170,2024-10-05,Male,20.0,69,One year,Bank transfer,73.02,5038.38,2,No
+C1171,2025-06-13,Female,67.0,46,One year,Electronic check,72.55,3337.3,2,No
+C1172,2025-07-22,Female,56.0,42,Month-to-month,Electronic check,108.69,4564.98,1,No
+C1173,2024-12-31,Male,50.0,41,One year,Electronic check,37.02,1517.82,1,No
+C1174,2025-02-26,Female,54.0,5,Month-to-month,Credit card,96.38,481.9,1,No
+C1175,2025-01-07,Female,46.0,27,Two year,Bank transfer,68.78,1857.06,2,No
+C1176,2024-11-06,Male,53.0,70,Month-to-month,Bank transfer,105.21,7364.7,0,No
+C1177,2024-09-11,Female,54.0,30,Month-to-month,Bank transfer,74.68,2240.4,2,No
+C1178,2024-08-01,Male,24.0,16,One year,Mailed check,53.18,850.88,2,No
+C1179,2025-02-07,Male,68.0,18,Month-to-month,Bank transfer,76.93,1384.74,1,Yes
+C1180,2024-05-20,FEMALE,59.0,51,One year,Bank transfer,88.4,4508.4,1,No
+C1181,2024-05-26,Male,56.0,3,Month-to-month,Mailed check,70.89,212.67,1,Yes
+C1182,2025-01-11,Male,79.0,69,One year,Bank transfer,82.2,5671.8,1,No
+C1183,2024-06-03,Female,,63,One year,Credit card,56.96,3588.48,0,No
+C1184,2024-10-03,Male,73.0,41,Two year,Electronic check,20.0,820.0,0,No
+C1185,2025-06-08,Male,37.0,34,Month-to-month,Bank transfer,92.5,3145.0,1,Yes
+C1186,2024-03-28,Female,22.0,55,Month-to-month,Electronic check,87.48,4811.4,1,Yes
+C1187,2024-05-02,Male,50.0,39,One year,Electronic check,73.7,2874.3,4,Yes
+C1188,2025-08-05,Male,70.0,34,One year,Bank transfer,71.71,2438.14,1,No
+C1189,2024-08-19, male,79.0,23,Month-to-month,Credit card,95.91,2205.93,2,Yes
+C1190,2024-10-14,FEMALE,58.0,32,One year,Mailed check,58.57,1874.24,0,No
+C1191,2025-03-22, male,53.0,54,Month-to-month,Mailed check,52.34,2826.36,2,No
+C1192,2025-08-14,Male,72.0,4,Month-to-month,Bank transfer,65.29,261.16,3,Yes
+C1193,2024-07-17,Female,47.0,2,Two year,Bank transfer,99.73,199.46,1,Yes
+C1194,2024-10-25,Female,70.0,52,Month-to-month,Electronic check,35.32,1836.64,5,No
+C1195,2024-08-07,Male,73.0,27,Month-to-month,Bank transfer,99.8,2694.6,0,Yes
+C1196,2025-06-07,FEMALE,68.0,58,One year,Electronic check,54.02,3133.16,1,No
+C1197,2025-06-29,Male,,3,One year,Credit card,42.48,127.44,1,No
+C1198,2024-02-08,Female,33.0,65,One year,Mailed check,101.5,6597.5,1,No
+C1199,2024-05-03,Male,21.0,9,Two year,Bank transfer,67.58,608.22,0,No
+C1200,2025-01-12,Male,46.0,30,Month-to-month,Bank transfer,37.49,1124.7,1,No
+C1201,2024-05-24,Male,66.0,69,One year,Electronic check,61.03,4211.07,3,No
+C1202,2024-03-29, male,75.0,8,Two year,Credit card,93.28,746.24,2,Yes
+C1203,2025-06-16,Male,76.0,47,One year,Bank transfer,99.8,4690.6,2,No
+C1204,2025-07-06, male,21.0,52,One year,Bank transfer,59.32,3084.64,3,No
+C1205,2024-06-14,Male,21.0,31,Month-to-month,Credit card,80.16,2484.96,2,No
+C1206,2025-01-04,Male,51.0,6,One year,Bank transfer,87.85,527.1,1,No
+C1207,2024-07-17,Male,19.0,38,Month-to-month,Electronic check,53.88,2047.44,2,No
+C1208,2024-04-02,FEMALE,67.0,31,One year,Credit card,78.88,2445.28,0,No
+C1209,2025-06-13,Male,18.0,62,Month-to-month,Bank transfer,69.2,4290.4,2,No
+C1210,2024-01-04,Female,50.0,49,Month-to-month,Mailed check,56.6,2773.4,2,No
+C1211,2024-07-11,Male,53.0,25,One year,Mailed check,57.7,1442.5,2,No
+C1212,2024-01-31,FEMALE,44.0,5,Month-to-month,Credit card,71.68,358.4,2,Yes
+C1213,2025-08-21,Female,26.0,42,Month-to-month,Electronic check,70.75,2971.5,3,No
+C1214,2024-11-13,Male,67.0,20,Two year,Electronic check,55.86,1117.2,1,No
+C1215,2025-05-07,Female,52.0,49,Month-to-month,Electronic check,999.0,2908.15,1,No
+C1216,2024-09-04,Male,64.0,62,Two year,Credit card,97.83,6065.46,3,No
+C1217,2025-05-23,Male,59.0,26,One year,Mailed check,75.35,1959.1,1,No
+C1218,2024-12-10,Male,50.0,65,Month-to-month,Electronic check,92.13,5988.45,2,No
+C1219,2024-05-15,Female,18.0,37,One year,Mailed check,100.05,3701.85,2,No
+C1220,2024-01-08,Female,45.0,38,Month-to-month,Mailed check,84.72,3219.36,1,No
+C1221,2024-05-10,Male,71.0,55,Month-to-month,Bank transfer,126.77,6972.35,6,Yes
+C1222,2025-08-17,Male,31.0,57,Two year,Credit card,49.37,2814.09,1,No
+C1223,2025-03-27, male,33.0,65,One year,Electronic check,90.21,5863.65,0,No
+C1224,2025-06-15,Male,73.0,71,One year,Bank transfer,62.05,4405.55,3,No
+C1225,2025-05-11,Male,52.0,11,One year,Bank transfer,116.39,1280.29,2,No
+C1226,2025-01-08,Male,56.0,30,One year,Credit card,112.51,3375.3,3,No
+C1227,2024-05-14,Male,39.0,67,One year,Credit card,21.14,1416.38,2,No
+C1228,2024-08-28,Male,34.0,22,Month-to-month,Mailed check,45.78,1007.16,4,Yes
+C1229,2024-05-03,Female,39.0,1,Month-to-month,Credit card,86.61,86.61,2,Yes
+C1230,2025-06-20,Male,77.0,41,Month-to-month,Mailed check,89.75,3679.75,2,No
+C1231,2024-05-26,Male,43.0,54,Month-to-month,Credit card,88.41,4774.14,0,No
+C1232,2025-04-25,Female,52.0,53,Month-to-month,Mailed check,68.23,3616.19,2,Yes
+C1233,2024-03-23,Male,18.0,58,Two year,Credit card,81.38,4720.04,2,Yes
+C1234,2024-08-24,Male,71.0,46,Month-to-month,Mailed check,86.33,3971.18,3,No
+C1235,2024-09-09,Female,44.0,10,Month-to-month,Credit card,68.05,680.5,1,Yes
+C1236,2025-03-14,Male,64.0,61,Month-to-month,Credit card,95.68,5836.48,3,No
+C1237,2024-10-28,Female,34.0,30,One year,Electronic check,20.0,600.0,3,No
+C1238,2025-05-14,Male,57.0,61,Two year,Credit card,85.84,5236.24,1,No
+C1239,2025-01-11,Male,40.0,58,Two year,Bank transfer,44.15,2560.7,1,No
+C1240,2024-01-02,Male,,69,Month-to-month,Electronic check,93.97,6483.93,0,No
+C1241,2024-02-03,Male,28.0,2,Month-to-month,Credit card,64.28,128.56,2,Yes
+C1242,2024-09-10,Female,61.0,62,Two year,Bank transfer,47.78,2962.36,1,No
+C1243,2024-04-25,Male,38.0,45,Month-to-month,Bank transfer,79.35,3570.75,2,No
+C1244,2024-05-17,Male,25.0,35,One year,Electronic check,47.22,1652.7,2,No
+C1245,2024-03-11,Female,61.0,57,Month-to-month,Credit card,47.18,2689.26,1,Yes
+C1246,2025-08-06,Female,60.0,68,Two year,Electronic check,30.82,2095.76,1,No
+C1247,2024-06-11,Male,78.0,37,Month-to-month,Electronic check,69.33,2565.21,2,No
+C1248,2025-02-13,Female,72.0,7,Month-to-month,Bank transfer,82.42,576.94,4,Yes
+C1249,2024-04-21, male,30.0,52,Month-to-month,Credit card,95.58,4970.16,4,Yes
+C1250,2024-03-19,Male,21.0,17,Month-to-month,Bank transfer,66.46,1129.82,1,Yes
+C1251,2025-07-15,Male,71.0,17,Two year,Electronic check,96.2,1635.4,5,Yes
+C1252,2024-10-17,Female,78.0,14,Two year,Credit card,70.45, ,3,Yes
+C1253,2024-08-12,Male,56.0,15,Month-to-month,Credit card,67.67,1015.05,2,No
+C1254,2024-04-28,Male,55.0,65,One year,Credit card,84.34,5482.1,1,No
+C1255,2024-03-24,Male,24.0,26,Month-to-month,Bank transfer,96.46,2507.96,2,No
+C1256,2024-02-02,Female,,8,Month-to-month,Mailed check,61.46,491.68,1,No
+C1257,2025-02-03, male,18.0,13,Month-to-month,Mailed check,63.91,830.83,4,No
+C1258,2024-03-01,Female,65.0,29,Month-to-month,Electronic check,65.98,1913.42,2,Yes
+C1259,2025-08-06,Female,72.0,25,Month-to-month,Bank transfer,72.07,1801.75,4,No
+C1260,2024-06-22,Male,19.0,23,One year,Credit card,47.49,1092.27,0,No
+C1261,2025-04-21,FEMALE,32.0,68,One year,Electronic check,95.7,6507.6,2,No
+C1262,2024-07-05,Female,79.0,62,Month-to-month,Credit card,59.99,3719.38,1,No
+C1263,2025-01-23,FEMALE,24.0,41,One year,Bank transfer,81.56,3343.96,2,No
+C1264,2025-01-12,Female,67.0,71,Two year,Electronic check,49.36,3504.56,1,No
+C1265,2024-08-14,Female,58.0,25,Month-to-month,Credit card,78.97,1974.25,3,No
+C1266,2024-05-03,Female,58.0,10,Month-to-month,Credit card,79.79,797.9,1,Yes
+C1267,2024-08-29,Male,61.0,20,One year,Credit card,59.48,1189.6,1,No
+C1268,2024-07-17,Male,35.0,7,Month-to-month,Mailed check,120.52,843.64,0,Yes
+C1269,2024-06-30,Male,73.0,68,One year,Mailed check,79.28,5391.04,1,No
+C1270,2024-05-17, male,48.0,16,Month-to-month,Credit card,114.42,1830.72,2,Yes
+C1271,2025-04-28,FEMALE,49.0,32,One year,Bank transfer,93.98,3007.36,4,No
+C1272,2024-08-01,Female,64.0,15,Month-to-month,Electronic check,53.44,801.6,2,No
+C1273,2025-04-27,Male,37.0,70,Month-to-month,Electronic check,60.45,4231.5,4,No
+C1274,2025-01-16,Male,21.0,12,Month-to-month,Bank transfer,80.9,970.8,1,Yes
+C1275,2024-10-20,Male,37.0,37,One year,Bank transfer,71.53,2646.61,1,No
+C1276,2025-03-08,Male,,68,Month-to-month,Electronic check,71.24,4844.32,2,No
+C1277,2025-06-01,Male,30.0,38,Two year,Mailed check,62.84,2387.92,1,No
+C1278,2024-03-29,Male,65.0,64,Month-to-month,Credit card,24.79,1586.56,2,No
+C1279,2025-01-26,Female,57.0,64,Month-to-month,Credit card,64.36,4119.04,0,No
+C1280,2024-06-08,Female,59.0,55,Month-to-month,Electronic check,20.0,1100.0,1,No
+C1281,2025-02-15,Male,76.0,53,Month-to-month,Bank transfer,79.3,4202.9,0,No
+C1282,2024-10-26,Male,32.0,41,Month-to-month,Credit card,51.85,2125.85,1,No
+C1283,2024-06-10,Male,23.0,42,One year,Electronic check,52.11,2188.62,3,No
+C1284,2024-08-07,Female,39.0,60,One year,Credit card,64.52,3871.2,2,No
+C1285,2024-05-24,Female,41.0,31,Month-to-month,Mailed check,76.82,2381.42,0,No
+C1286,2025-02-14,Male,18.0,68,Month-to-month,Bank transfer,34.2,2325.6,0,No
+C1287,2024-05-16,Female,39.0,63,Month-to-month,Credit card,26.28,1655.64,3,No
+C1288,2025-06-09,Male,79.0,27,One year,Mailed check,43.35, ,3,Yes
+C1289,2025-07-01,Male,22.0,30,Month-to-month,Bank transfer,20.0,600.0,3,No
+C1290,2024-05-04,Female,75.0,51,Two year,Mailed check,45.83,2337.33,0,No
+C1291,2025-04-25,Female,54.0,66,One year,Bank transfer,109.77,7244.82,1,No
+C1292,2024-10-19,Female,76.0,7,One year,Credit card,43.59,305.13,0,No
+C1293,2025-06-23,Male,78.0,5,One year,Electronic check,86.29,431.45,0,Yes
+C1294,2024-11-26,Male,,18,One year,Credit card,35.71,642.78,1,No
+C1295,2025-05-08,Female,35.0,31,Month-to-month,Credit card,77.48,2401.88,1,No
+C1296,2025-06-26,FEMALE,66.0,12,Month-to-month,Mailed check,62.01,744.12,0,Yes
+C1297,2025-04-27,Female,63.0,37,Month-to-month,Electronic check,68.5,2534.5,2,No
+C1298,2024-08-28,Female,,39,Month-to-month,Bank transfer,84.22,3284.58,0,No
+C1299,2024-09-18,Male,73.0,68,Month-to-month,Electronic check,113.91,7745.88,0,No
+C1300,2024-07-02,FEMALE,74.0,53,Month-to-month,Electronic check,74.87,3968.11,2,No
+C1301,2025-04-04,Male,34.0,18,One year,Electronic check,73.11,1315.98,3,No
+C1302,2024-02-14,Female,26.0,56,Month-to-month,Electronic check,45.67,2557.52,1,No
+C1303,2024-04-09,Female,74.0,58,Month-to-month,Credit card,84.58,4905.64,2,No
+C1304,2024-04-09,Female,19.0,49,Month-to-month,Bank transfer,63.85,3128.65,2,Yes
+C1305,2025-01-28,Female,64.0,49,Month-to-month,Bank transfer,90.8,4449.2,0,No
+C1306,2024-09-28,Male,63.0,23,Two year,Credit card,68.91,1584.93,2,No
+C1307,2024-01-26,Male,58.0,51,Month-to-month,Bank transfer,113.52,5789.52,1,Yes
+C1308,2024-08-29,FEMALE,47.0,10,Month-to-month,Electronic check,20.43,204.3,1,Yes
+C1309,2025-08-02,Female,30.0,45,Month-to-month,Bank transfer,62.59,2816.55,1,No
+C1310,2024-07-19,Male,52.0,66,Month-to-month,Bank transfer,92.04,6074.64,0,No
+C1311,2025-06-11,Male,35.0,69,Month-to-month,Bank transfer,61.23,4224.87,3,No
+C1312,2024-08-05,Female,71.0,22,Month-to-month,Credit card,50.2,1104.4,1,No
+C1313,2024-04-08,Female,24.0,24,Month-to-month,Mailed check,63.35,1520.4,1,No
+C1314,2024-01-30,Female,40.0,44,Month-to-month,Electronic check,35.5,1562.0,1,Yes
+C1315,2025-04-06,Male,73.0,29,One year,Credit card,72.97,2116.13,0,No
+C1316,2024-10-15,Female,57.0,52,Month-to-month,Mailed check,131.01,6812.52,0,No
+C1317,2025-05-09,FEMALE,68.0,15,One year,Mailed check,98.63,1479.45,2,No
+C1318,2025-02-04,Female,26.0,12,Month-to-month,Mailed check,42.27,507.24,1,Yes
+C1319,2024-01-26,Female,23.0,4,Month-to-month,Credit card,48.17,192.68,3,Yes
+C1320,2024-12-18,Female,48.0,34,Two year,Credit card,59.88,2035.92,4,Yes
+C1321,2024-12-05,Female,50.0,16,Month-to-month,Credit card,95.11,1521.76,1,No
+C1322,2024-03-28,Female,68.0,22,Two year,Credit card,49.46,1088.12,2,No
+C1323,2024-09-09,Male,31.0,65,Two year,Credit card,52.74,3428.1,1,No
+C1324,2024-08-17,Female,53.0,58,One year,Mailed check,92.12,5342.96,2,No
+C1325,2025-01-06,Female,,60,Month-to-month,Bank transfer,91.62,5497.2,2,No
+C1326,2025-02-03,FEMALE,46.0,43,One year,Electronic check,60.65,2607.95,2,No
+C1327,2025-06-15,Male,53.0,8,One year,Mailed check,42.06,336.48,3,No
+C1328,2024-02-05,Male,76.0,54,One year,Mailed check,31.26,1688.04,0,No
+C1329,2025-03-09,Female,76.0,43,Month-to-month,Mailed check,52.53,2258.79,0,No
+C1330,2024-05-18,Female,76.0,65,Two year,Credit card,20.0,1300.0,4,No
+C1331,2024-05-06,Male,63.0,35,Two year,Mailed check,88.75,3106.25,2,No
+C1332,2024-07-28,Female,55.0,13,Month-to-month,Electronic check,54.25,705.25,2,Yes
+C1333,2024-11-28,Male,24.0,43,Month-to-month,Bank transfer,82.03,3527.29,0,No
+C1334,2024-01-12,FEMALE,39.0,33,Month-to-month,Electronic check,116.71,3851.43,0,No
+C1335,2024-12-03,Male,41.0,47,Two year,Credit card,99.32,4668.04,0,No
+C1336,2025-05-06,Male,66.0,27,Two year,Electronic check,41.22,1112.94,0,Yes
+C1337,2024-01-07,Female,53.0,22,Two year,Electronic check,91.73,2018.06,3,No
+C1338,2025-06-08,Male,32.0,9,One year,Credit card,98.95,890.55,0,No
+C1339,2024-03-20,Male,74.0,69,One year,Mailed check,51.34,3542.46,2,No
+C1340,2025-05-14,Male,22.0,54,One year,Credit card,46.17,2493.18,2,No
+C1341,2024-08-03,Male,40.0,34,One year,Credit card,67.26,2286.84,2,No
+C1342,2024-08-05,Male,54.0,17,Two year,Bank transfer,29.96,509.32,1,No
+C1343,2024-04-16,Male,29.0,45,One year,Mailed check,106.77,4804.65,1,No
+C1344,2024-12-01,Female,25.0,30,Month-to-month,Bank transfer,20.0,600.0,1,Yes
+C1345,2024-05-22,Male,35.0,46,Month-to-month,Credit card,42.33,1947.18,1,No
+C1346,2024-04-28,Female,32.0,7,Month-to-month,Electronic check,63.26,442.82,3,Yes
+C1347,2025-02-09, male,33.0,14,One year,Electronic check,64.32,900.48,4,No
+C1348,2025-03-12,Female,37.0,53,One year,Bank transfer,74.15,3929.95,3,No
+C1349,2025-07-30,Male,27.0,5,Month-to-month,Bank transfer,76.79,383.95,2,Yes
+C1350,2024-11-22,FEMALE,48.0,49,Two year,Mailed check,64.66,3168.34,1,No
+C1351,2024-10-01,Male,39.0,30,One year,Mailed check,98.42,2952.6,1,No
+C1352,2025-02-23,Male,44.0,1,Month-to-month,Electronic check,20.0,20.0,4,Yes
+C1353,2025-01-22,Female,33.0,55,Month-to-month,Mailed check,70.0,3850.0,1,Yes
+C1354,2025-07-04,Female,62.0,50,Month-to-month,Credit card,52.14,2607.0,0,No
+C1355,2025-04-01,Male,49.0,58,Month-to-month,Credit card,73.31,4251.98,3,No
+C1356,2025-06-18,Male,52.0,64,Month-to-month,Electronic check,75.52,4833.28,4,Yes
+C1357,2025-02-07,Female,73.0,52,Month-to-month,Bank transfer,47.2,2454.4,4,No
+C1358,2025-07-10,Female,,60,Two year,Credit card,53.98,3238.8,1,No
+C1359,2025-01-29,Male,77.0,9,Month-to-month,Credit card,89.81,808.29,2,No
+C1360,2024-11-22,Male,21.0,66,Two year,Bank transfer,78.73, ,1,No
+C1361,2024-01-01,Male,27.0,65,One year,Bank transfer,52.99,3444.35,0,No
+C1362,2024-06-20,Male,68.0,50,Two year,Electronic check,121.0,6050.0,0,No
+C1363,2025-06-05,Female,53.0,57,Month-to-month,Credit card,127.73,7280.61,1,No
+C1364,2025-02-02,Female,79.0,53,Month-to-month,Credit card,33.44,1772.32,1,No
+C1365,2024-04-06,Male,59.0,63,One year,Bank transfer,77.54,4885.02,2,No
+C1366,2024-01-30,Female,69.0,64,Month-to-month,Mailed check,132.72,8494.08,2,No
+C1367,2024-04-18,Female,27.0,38,Month-to-month,Bank transfer,89.6,3404.8,4,Yes
+C1368,2024-04-27,Female,22.0,58,One year,Bank transfer,75.53,4380.74,2,No
+C1369,2024-11-01,Male,50.0,66,One year,Credit card,64.8,4276.8,3,No
+C1370,2024-06-08, male,51.0,22,Month-to-month,Mailed check,56.47,1242.34,0,No
+C1371,2024-12-18,Male,30.0,4,Month-to-month,Bank transfer,64.69,258.76,3,Yes
+C1372,2025-03-15,Female,72.0,13,Two year,Mailed check,56.23,730.99,2,Yes
+C1373,2025-03-29,Male,40.0,3,Month-to-month,Mailed check,88.62,265.86,1,No
+C1374,2025-04-11,Male,44.0,31,One year,Credit card,60.05,1861.55,1,Yes
+C1375,2024-06-24,Female,38.0,2,Month-to-month,Credit card,58.97,117.94,2,No
+C1376,2025-07-14,Female,49.0,19,Two year,Credit card,39.95,759.05,3,No
+C1377,2025-07-21,FEMALE,68.0,18,Month-to-month,Mailed check,68.76,1237.68,0,No
+C1378,2024-02-17,Female,46.0,51,Month-to-month,Bank transfer,47.65,2430.15,3,No
+C1379,2025-01-11,Male,32.0,18,Month-to-month,Bank transfer,65.48,1178.64,4,No
+C1380,2024-09-07,Female,59.0,68,One year,Credit card,96.05,6531.4,3,Yes
+C1381,2025-05-21,Female,51.0,14,Two year,Credit card,79.15,1108.1,1,Yes
+C1382,2025-02-09,Male,29.0,69,Month-to-month,Credit card,82.62,5700.78,1,No
+C1383,2024-10-13,Female,54.0,41,Month-to-month,Mailed check,78.9,3234.9,0,No
+C1384,2024-07-31,FEMALE,32.0,18,One year,Electronic check,71.48,1286.64,1,No
+C1385,2024-02-12,Male,38.0,3,One year,Bank transfer,66.82,200.46,1,No
+C1386,2024-07-30,Male,26.0,22,Month-to-month,Electronic check,62.3,1370.6,1,Yes
+C1387,2024-01-08,Male,75.0,42,One year,Bank transfer,88.98,3737.16,2,No
+C1388,2025-07-30,Male,62.0,8,Month-to-month,Credit card,42.89,343.12,2,No
+C1389,2025-01-19,Male,38.0,12,Two year,Bank transfer,103.52,1242.24,4,Yes
+C1390,2024-11-21,Male,54.0,9,Month-to-month,Mailed check,70.85,637.65,0,No
+C1391,2024-09-12,Female,,49,One year,Mailed check,51.28,2512.72,2,No
+C1392,2025-01-23,Female,76.0,7,One year,Mailed check,57.77,404.39,0,No
+C1393,2024-09-21,Female,60.0,2,One year,Credit card,53.08,106.16,1,No
+C1394,2025-06-30,Male,20.0,33,Month-to-month,Mailed check,74.01,2442.33,2,No
+C1395,2024-07-14,Male,48.0,23,One year,Credit card,52.05,1197.15,0,No
+C1396,2024-09-22,FEMALE,42.0,41,One year,Credit card,98.55,4040.55,1,No
+C1397,2024-04-16,Male,62.0,67,Month-to-month,Bank transfer,50.46,3380.82,2,No
+C1398,2025-03-03, male,78.0,61,Month-to-month,Bank transfer,20.0,1220.0,2,No
+C1399,2024-10-11,Male,27.0,39,Two year,Credit card,51.73,2017.47,3,No
+C1400,2024-06-16,Female,27.0,46,One year,Electronic check,20.0,920.0,1,No
+C1401,2024-06-01,Female,27.0,58,Month-to-month,Mailed check,69.0,4002.0,1,No
+C1402,2025-05-26,Male,76.0,32,One year,Mailed check,96.48,3087.36,2,No
+C1403,2025-06-19,Male,63.0,47,Month-to-month,Bank transfer,86.19,4050.93,1,Yes
+C1404,2024-05-03,Male,47.0,16,Month-to-month,Bank transfer,36.56,584.96,1,No
+C1405,2024-04-17,Male,42.0,44,Two year,Electronic check,50.94,2241.36,1,No
+C1406,2024-12-14,Male,54.0,17,Month-to-month,Bank transfer,114.47,1945.99,1,No
+C1407,2025-08-03,Male,71.0,14,Month-to-month,Mailed check,77.96,1091.44,3,Yes
+C1408,2024-12-23,Male,21.0,55,Month-to-month,Bank transfer,70.1,3855.5,1,No
+C1409,2025-05-31,Female,32.0,41,Month-to-month,Bank transfer,96.4,3952.4,1,No
+C1410,2025-04-04,Male,58.0,27,Month-to-month,Electronic check,131.32,3545.64,0,Yes
+C1411,2024-08-18,Male,32.0,3,Month-to-month,Bank transfer,102.41,307.23,3,Yes
+C1412,2024-06-19,Female,78.0,17,Month-to-month,Mailed check,73.49,1249.33,2,Yes
+C1413,2025-04-08,Female,71.0,57,Month-to-month,Electronic check,78.87,4495.59,5,No
+C1414,2024-12-09,Male,68.0,34,Month-to-month,Credit card,85.43,2904.62,1,Yes
+C1415,2024-12-14,FEMALE,40.0,69,Month-to-month,Electronic check,54.68,3772.92,1,No
+C1416,2024-01-29,Male,22.0,64,One year,Bank transfer,43.53,2785.92,0,No
+C1417,2024-10-06, male,24.0,61,Two year,Bank transfer,71.31,4349.91,2,No
+C1418,2025-04-09,Male,52.0,2,Month-to-month,Credit card,46.32,92.64,5,Yes
+C1419,2025-05-02,Male,,4,One year,Credit card,68.46,273.84,1,No
+C1420,2024-11-20,Male,,42,Month-to-month,Electronic check,72.4,3040.8,1,Yes
+C1421,2025-05-13, male,65.0,25,Month-to-month,Bank transfer,128.53,3213.25,1,No
+C1422,2025-04-27,Male,32.0,60,Month-to-month,Electronic check,48.72, ,1,Yes
+C1423,2024-04-30,Female,34.0,23,Two year,Electronic check,66.96,1540.08,0,No
+C1424,2025-03-06,Female,75.0,11,Month-to-month,Bank transfer,65.89,724.79,1,Yes
+C1425,2025-06-27,Male,52.0,9,Two year,Credit card,80.93,728.37,2,No
+C1426,2024-10-13,Male,,22,Month-to-month,Electronic check,96.17,2115.74,1,Yes
+C1427,2024-01-20,Male,69.0,45,One year,Mailed check,57.74,2598.3,2,No
+C1428,2025-08-11,Female,68.0,9,Two year,Mailed check,49.47,445.23,0,No
+C1429,2024-01-04,Female,,57,Two year,Credit card,28.98,1651.86,2,No
+C1430,2024-02-22,Male,31.0,22,Month-to-month,Mailed check,46.84,1030.48,1,No
+C1431,2024-10-17, male,64.0,23,Month-to-month,Bank transfer,83.41,1918.43,0,No
+C1432,2024-07-16,Female,,48,Month-to-month,Credit card,71.14,3414.72,3,Yes
+C1433,2024-06-29,Male,78.0,62,One year,Credit card,44.61, ,1,Yes
+C1434,2025-07-15,Female,71.0,31,Month-to-month,Mailed check,60.68,1881.08,3,No
+C1435,2024-09-10,Male,36.0,57,Month-to-month,Bank transfer,70.79,4035.03,3,No
+C1436,2024-02-16,Female,73.0,22,Two year,Mailed check,82.59,1816.98,2,No
+C1437,2024-10-14,Male,72.0,10,Month-to-month,Bank transfer,55.17,551.7,1,No
+C1438,2024-06-10,Female,33.0,59,Month-to-month,Credit card,63.74,3760.66,0,No
+C1439,2024-10-07,Male,52.0,55,Two year,Electronic check,24.54,1349.7,3,No
+C1440,2025-05-16,Male,62.0,54,Month-to-month,Electronic check,41.22,2225.88,1,No
+C1441,2025-06-28,Female,,63,Month-to-month,Mailed check,110.44,6957.72,2,No
+C1442,2025-03-03,Female,70.0,36,Month-to-month,Mailed check,20.0,720.0,4,No
+C1443,2025-07-04,Male,26.0,15,Month-to-month,Credit card,61.55,923.25,2,Yes
+C1444,2024-05-13,Female,62.0,42,Month-to-month,Credit card,75.48,3170.16,2,No
+C1445,2024-07-26, male,38.0,41,One year,Mailed check,60.64,2486.24,1,No
+C1446,2025-04-19,Male,77.0,28,Two year,Bank transfer,49.8,1394.4,3,No
+C1447,2024-06-21,FEMALE,26.0,46,One year,Bank transfer,68.47,3149.62,2,No
+C1448,2024-12-11,Male,39.0,19,One year,Credit card,69.88,1327.72,1,No
+C1449,2025-01-27,Female,65.0,44,Month-to-month,Bank transfer,67.95,2989.8,1,No
+C1450,2024-07-05,Male,,57,One year,Bank transfer,23.06,1314.42,0,No
+C1451,2024-04-29,Male,52.0,7,One year,Credit card,66.31,464.17,1,No
+C1452,2024-01-01,Female,35.0,33,One year,Credit card,48.62,1604.46,2,No
+C1453,2024-08-28,Female,20.0,47,Two year,Mailed check,56.31,2646.57,2,No
+C1454,2024-09-03,Male,19.0,4,One year,Credit card,75.67,302.68,2,No
+C1455,2025-03-06,Female,72.0,45,Month-to-month,Bank transfer,86.02,3870.9,3,No
+C1456,2025-03-13,FEMALE,67.0,65,One year,Bank transfer,92.42,6007.3,3,No
+C1457,2024-01-04,Male,54.0,59,Month-to-month,Electronic check,57.59,3397.81,0,No
+C1458,2024-10-15,Male,60.0,49,Month-to-month,Bank transfer,93.1,4561.9,4,Yes
+C1459,2025-04-08,Female,45.0,58,One year,Credit card,99.34,5761.72,4,No
+C1460,2025-08-03,Male,50.0,26,Two year,Electronic check,98.42,2558.92,0,No
+C1461,2025-03-16,Male,26.0,24,Month-to-month,Electronic check,104.74,2513.76,2,Yes
+C1462,2024-06-23,Female,23.0,6,Month-to-month,Electronic check,66.36,398.16,2,No
+C1463,2024-08-20,Female,47.0,52,One year,Credit card,65.65,3413.8,2,No
+C1464,2024-08-10, male,79.0,23,Month-to-month,Mailed check,90.63,2084.49,0,No
+C1465,2024-05-28, male,74.0,62,Month-to-month,Bank transfer,35.84,2222.08,2,No
+C1466,2024-01-04,Female,51.0,34,Month-to-month,Electronic check,75.24,2558.16,0,No
+C1467,2024-11-20,Male,54.0,64,Month-to-month,Electronic check,56.74,3631.36,2,No
+C1468,2024-06-11,Female,69.0,10,One year,Credit card,60.78,607.8,2,No
+C1469,2024-06-26,Female,46.0,12,One year,Credit card,26.46,317.52,0,No
+C1470,2024-08-08,Male,41.0,25,Month-to-month,Credit card,47.74,1193.5,5,Yes
+C1471,2025-05-07,FEMALE,55.0,2,Two year,Electronic check,69.49,138.98,1,Yes
+C1472,2025-03-11,Male,49.0,35,Two year,Bank transfer,92.21,3227.35,1,No
+C1473,2024-12-20,Female,52.0,47,Month-to-month,Mailed check,94.75,4453.25,1,Yes
+C1474,2025-03-14,Female,20.0,47,Month-to-month,Mailed check,67.99,3195.53,0,No
+C1475,2024-07-03, male,56.0,16,Month-to-month,Credit card,65.27,1044.32,1,No
+C1476,2024-08-17,Female,42.0,12,Two year,Electronic check,49.23,590.76,3,No
+C1477,2025-04-29,FEMALE,30.0,41,Two year,Bank transfer,80.06,3282.46,1,No
+C1478,2025-01-09,Male,,45,Month-to-month,Credit card,63.81,2871.45,3,No
+C1479,2024-12-30,Male,27.0,68,Month-to-month,Credit card,85.15,5790.2,0,No
+C1480,2024-05-01,Male,29.0,64,Month-to-month,Mailed check,113.79,7282.56,5,Yes
+C1481,2024-03-20,Female,18.0,27,Month-to-month,Credit card,69.19,1868.13,1,No
+C1482,2024-05-14,Male,63.0,12,Two year,Bank transfer,32.57,390.84,1,No
+C1483,2024-09-05,Male,69.0,18,Month-to-month,Bank transfer,48.48, ,1,Yes
+C1484,2024-06-09,Male,42.0,63,Month-to-month,Mailed check,33.55,2113.65,4,No
+C1485,2024-10-20,Female,18.0,33,Month-to-month,Bank transfer,40.07,1322.31,1,No
+C1486,2024-06-10,Male,46.0,71,Month-to-month,Electronic check,102.63,7286.73,0,No
+C1487,2025-07-20,Female,33.0,47,One year,Electronic check,75.67,3556.49,4,No
+C1488,2025-08-04,Female,32.0,43,Month-to-month,Bank transfer,32.0,1376.0,3,No
+C1489,2024-07-11,Female,54.0,8,Month-to-month,Mailed check,86.34, ,1,No
+C1490,2025-03-22,Female,62.0,42,Month-to-month,Electronic check,101.51,4263.42,3,No
+C1491,2024-09-26,Female,48.0,28,Two year,Electronic check,61.0,1708.0,0,No
+C1492,2025-04-23,Male,38.0,60,One year,Mailed check,53.1,3186.0,0,No
+C1493,2025-08-09,Male,73.0,10,Month-to-month,Bank transfer,61.57,615.7,1,Yes
+C1494,2025-05-11,Male,51.0,14,Two year,Electronic check,77.12,1079.68,0,No
+C1495,2024-09-12,Male,31.0,48,Month-to-month,Bank transfer,86.0,4128.0,1,No
+C1496,2024-10-24,Male,68.0,49,One year,Bank transfer,99.56,4878.44,5,No
+C1497,2025-05-11,Male,25.0,59,Month-to-month,Electronic check,100.31,5918.29,0,No
+C1498,2024-08-10,Female,71.0,38,Two year,Credit card,99.64,3786.32,1,No
+C1499,2024-02-28,Male,27.0,27,Month-to-month,Mailed check,104.05,2809.35,1,No
+C1304,2024-04-09,Female,19.0,49,Month-to-month,Bank transfer,63.85,3128.65,2,Yes
+C1340,2025-05-14,Male,22.0,54,One year,Credit card,46.17,2493.18,2,No
+C1047,2025-08-09,Female,70.0,4,Two year,Bank transfer,53.36,213.44,3,No
+C1067,2025-06-30,Female,55.0,14,Month-to-month,Credit card,78.92,1104.88,1,Yes
+C1479,2024-12-30,Male,27.0,68,Month-to-month,Credit card,85.15,5790.2,0,No
+C1485,2024-10-20,Female,18.0,33,Month-to-month,Bank transfer,40.07,1322.31,1,No
+C1310,2024-07-19,Male,52.0,66,Month-to-month,Bank transfer,92.04,6074.64,0,No
+C1031,2024-03-05,Male,44.0,40,Month-to-month,Electronic check,76.75,3070.0,2,No
